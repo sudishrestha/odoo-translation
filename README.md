@@ -1,6 +1,5 @@
-# odoo-translation
-Translation files for odoo  
-Nepali translation for odoo  
+# odoo-translation 
+- Nepali translation for odoo  
 # To import
 1) Login with administration account  
 2) Go to settings  
